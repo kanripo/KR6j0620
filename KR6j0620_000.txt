@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說無畏陀羅尼經
+#+DATE: 2015-08-30 20:36:28.457149
+#+PROPERTY: JUAN 0
