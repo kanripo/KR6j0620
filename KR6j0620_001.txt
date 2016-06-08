@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:28.246320
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:39
 #+TITLE: 佛說無畏陀羅尼經
 #+PROPERTY: CBETA_ID T21n1388
 #+PROPERTY: ID KR6j0620
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1388
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0620_T_001-0906c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1388¶
-
- 佛說無畏陀羅尼經¶
+No. 1388¶
+佛說無畏陀羅尼經¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
